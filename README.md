@@ -1,6 +1,6 @@
-# Lox
+# Lux
 
-Lox (latin for light) started out as the final project for the computer graphics course (CS488) at the University of Waterloo. After adding an almost unnecessary number of features and optimizations, it has become one of my proudest projects. Unfortunately though, since the source code contains proprietary source code owned by the university, I am not allowed to share the source code, but figured it would be nice to outline some of the awesome things it can do!
+Lux (latin for light) started out as the final project for the computer graphics course (CS488) at the University of Waterloo. After adding an almost unnecessary number of features and optimizations, it has become one of my proudest projects. Unfortunately though, since the source code contains proprietary source code owned by the university, I am not allowed to share the source code, but figured it would be nice to outline some of the awesome things it can do!
 
 ## First things first: show me the images!
 
